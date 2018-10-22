@@ -1,4 +1,4 @@
-# FinalVimeo
+# Vimeo Coding Challenge
 
 ### Installing 
 install everything in the package.json
