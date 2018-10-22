@@ -1,11 +1,16 @@
 # FinalVimeo
 
 ### Installing 
+install everything in the package.json
 ```
-cd into the project folder and type npm install in the command line.
+cd projectFolder
 ```
 ```
-type npm start in the command line to run the application
+npm install
+```
+Run application 
+``` 
+npm start
 ```
 
 ### Files
